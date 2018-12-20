@@ -1,4 +1,8 @@
 # spark4fun
+Spark Installation
+
+https://data-flair.training/blogs/install-spark-ubuntu/
+
 spark tool uses
 
 1. start your spark with this command 'spark-shell' and initialized SparkContext with 'sc' command
